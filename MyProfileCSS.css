@@ -1,0 +1,14 @@
+div{
+    padding: 30px;
+    border:powderblue;
+    box-shadow: 2px 3px 5px;
+    margin-left: 150px;
+    margin-bottom: 40px;
+    text-align: center;
+    width: 800px;
+    background-color:lavenderblush;
+}
+
+img {
+    border-radius: 100%;
+}
